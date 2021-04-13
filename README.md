@@ -1,4 +1,7 @@
 # charactersheetvizu
+Simple character creator and vizualizer for TTRPG
+
+
 
 ## Project setup
 ```
